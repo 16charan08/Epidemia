@@ -394,7 +394,7 @@ def gee_to_drive(s1, s2):
 
     #downloadsummary()
     ExportToDrive()
-    exportSummaries()
+    #exportSummaries()
     #datatolocaldrive()
     #datatolocal()
 

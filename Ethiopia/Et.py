@@ -305,7 +305,7 @@ def gee_to_drive(s1, s2):
     brdfWoreda = brdfSummary.map(sumZonalBrdf);
     # latten the results for export
     brdfFlat = brdfWoreda.flatten();
-
+    '''
     def exportSummaries():
         precipURL = precipFlat.getDownloadURL(**{'filename': string1 + ' ' + 'to'+ ' ' + string2 + 'precipFlat.csv',
                                                  'selectors': ['NewPCODE', 'R_NAME', 'W_NAME', 'Z_NAME', 'doy', 'year',
@@ -321,7 +321,7 @@ def gee_to_drive(s1, s2):
         print('lstURL:',lstURL)
         print('brdfURL:',brdfURL)
         return downloadlist
-
+    '''
     def downloadsummary():
         link = exportSummaries()
         url1 = link[0]

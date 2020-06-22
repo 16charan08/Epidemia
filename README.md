@@ -1,5 +1,5 @@
 # Epidemia-GEE
-#### This pyhton package will help to get required environmental data from GOOGLE EARTH ENGINE, but directly from R-STUDIO. This is an alternate way.
+#### This pyhton package will help to get required environmental data from GOOGLE EARTH ENGINE, but directly from R-STUDIO.
 #### Author :- Ram charan Reddy Kankanala
 #### Email :- Ramcr@ou.edu
 
